@@ -10,4 +10,4 @@ To look at how the Reynolds number and $x$ act on the thickness of boundary laye
 ### Recirculation
 At this point I look at the effect of recirculation on the foil when tilting it.
 ### Bernoulli equation
-In the end I test the validity of Bernoully equation.
+In the end I test the validity of Bernoulli equation.
